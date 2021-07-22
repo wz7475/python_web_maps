@@ -1,10 +1,19 @@
 # python_web_maps
 
-### use venv with installed modules
+### create venv 
 type in parednt dir
+
+python .\dict\dict_json.py
+
+activate
 
 .\\env\\Scripts\\activate
 
+install: python -m pip install
+
+* pandas
+* geopy
+* folium
 
 ## search for certain place
 
